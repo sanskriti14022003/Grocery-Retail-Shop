@@ -6,3 +6,5 @@ In this python project, I have build a grocery store management application. It 
 1. Front end: UI is written in HTML/CSS/Javascript/Bootstrap
 2. Backend: Python and Flask
 3. Database: mysql
+
+<img width="1917" height="906" alt="image" src="https://github.com/user-attachments/assets/bef48293-34d7-4572-86b5-0c4ffa31134d" />
